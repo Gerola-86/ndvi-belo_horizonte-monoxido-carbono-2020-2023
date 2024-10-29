@@ -1,4 +1,4 @@
-# ndvi-belo_horizonte-monoxido-carbono-2020-2023
+#belo_horizonte-monoxido-carbono-2020-2023
 estimativa do índice de concentração de monóxido de carbono em Belo Horizonte
 // Calculate CO concentration (in mol/m² or μg/m²) for any study area  using Time series chart Analysis (Dataset: Sentinel-5P NRTI CO)
 
